@@ -22,13 +22,13 @@ Project#3 (Oct 2014 - Sept 2015)
 	Project Name: Mina
 	Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
 	Duties performed:
-		Understanding the business functionality & Analysis of business requirements.
-		Loading files to HDFS and writing hive queries to process required data.
-		Loading data to Hive tables and writing queries to process.
-		Involved in loading data from LINUX file system to HDFS.
-		Responsible to manage data coming from different sources.
-		Importing and exporting data into HDFS and Hive using Sqoop.
-		Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
+		-Understanding the business functionality & Analysis of business requirements.
+		-Loading files to HDFS and writing hive queries to process required data.
+		-Loading data to Hive tables and writing queries to process.
+		-Involved in loading data from LINUX file system to HDFS.
+		-Responsible to manage data coming from different sources.
+		-Importing and exporting data into HDFS and Hive using Sqoop.
+		-Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
 	Environment:- Hadoop, Linux, HDFS, Hive, Sqoop, GIT
 
 Project#4 (Jul 2012 - Sept 2014)
@@ -48,13 +48,13 @@ Project#4 (Jul 2012 - Sept 2014)
 	Achievement of Grace Clinic Online goals will not only reduce the cost of healthcare, but also increase the quality of healthcare. 
 
 	Duties Performed:
-	Involved in estimation and analysis of the requirements.
-	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform code reviews for the team.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
-	Carry forward reusable components and best practices  for future release projects.
+		-Involved in estimation and analysis of the requirements.
+		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Perform code reviews for the team.
+		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+		-Deliver project to client on time without any delinquencies.
+		-Carry forward reusable components and best practices  for future release projects.
 
 	Environment: Zend Framework, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -67,12 +67,12 @@ Project#5 (Apr 2012 - Jun 2012)
 	Description: The Citibank microsite is a wordpress coupon website that will allow Citibank customers to access via custom authentication login and download/print on demand coupons that have QR codes. Via the CMS admin we will be able to manually upload coupons eight in total per month, where we will visibly display three months of coupons in advance. However, the customers will  only be able to print or download the active months coupons with a print button that is active. The other non-active months coupons will not have the print button. The customers can print as many coupons as they want which each coupon will have a unique voucher number that will be placed within the QR code. All actions on the site made by users/customers will be tracked both by the coupon module and by integrated  Google analytics and provided in way of real –time reports in the private access dashboard. 
 
 	Duties Performed:
-	Involved in estimation and analysis of the requirements.
-	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform code reviews for the team.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
+		-Involved in estimation and analysis of the requirements.
+		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Perform code reviews for the team.
+		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+		-Deliver project to client on time without any delinquencies.
 
 	Environment: Wordpress, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -92,11 +92,11 @@ Project#6 (Client Location: Mar 2011 - Mar 2012)
 	The platform has been designed and built by Helix Digital for Fairfax Regional Media, publishers of more than 160 newspaper websites across regional and rural Australia. 
 
 	Duties Performed:
-	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform code reviews for the team.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
+		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Perform code reviews for the team.
+		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+		-Deliver project to client on time without any delinquencies.
 
 	Environment: CakePhp, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -109,14 +109,14 @@ Project#7 (Jul 2010 - Feb 2011)
 	Description: It’s a website developed using PHP. This website provides the individual credentials for both jobseekers and employers. Employers will post the job requirements through this website. So that jobseekers can view and apply for the respective jobs thorough their individual logins. This website have a module (Message Board) which plays an important role in employees and jobseekers communication. 
 
 	Duties Performed:
-	Involved in estimation and analysis of the requirements.
-	Resource allocation to various modules. 
-	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
-	Build good rapport with team and gave support and suggestions to finish their tasks.
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform code reviews for the team.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
+		-Involved in estimation and analysis of the requirements.
+		-Resource allocation to various modules. 
+		-Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
+		-Build good rapport with team and gave support and suggestions to finish their tasks.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Perform code reviews for the team.
+		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+		-Deliver project to client on time without any delinquencies.
 
 	Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX
   
@@ -136,8 +136,8 @@ Project#8 (Mar 2010 – Jun 2010)
 	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
 
 	Duties Performed:
-	Involved in estimation and analysis of the requirements.
-	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+		-Involved in estimation and analysis of the requirements.
+		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
 
 	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
 
@@ -152,14 +152,14 @@ Project#9 (Nov 2009 – Feb 2010)
 	This website enables mutual interaction amongst all three parties through the report generation and email console developed
 
 	Duties Performed:
-	Involved in estimation and analysis of the requirements.
-	Resource allocation to various modules. 
-	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
-	Build good rapport with team and gave support and suggestions to finish their tasks.
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform code reviews for the team.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
+		-Involved in estimation and analysis of the requirements.
+		-Resource allocation to various modules. 
+		-Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
+		-Build good rapport with team and gave support and suggestions to finish their tasks.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Perform code reviews for the team.
+		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+		-Deliver project to client on time without any delinquencies.
 
 	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -174,11 +174,11 @@ Project#10  (Jan 2008 – Oct 2009)
 	It is developed by using osCommerce and it has got many features like multilingual, administration/backend functionality, customer/frontend functionality, product functionality, payment functionality,  shipping functionality and tax functionality. 
 
 	Duties Performed:
-	Understand and code the specifications given by client.
-	Prepare unit test plan and test cases for the project involved on. 
-	Develop and test the requirements.
-	Tracked and Resolved the bugs raised on time.
-	Delivered quality code to client on time without any delays.
+		-Understand and code the specifications given by client.
+		-Prepare unit test plan and test cases for the project involved on. 
+		-Develop and test the requirements.
+		-Tracked and Resolved the bugs raised on time.
+		-Delivered quality code to client on time without any delays.
 
 	Environment: Php, JavaScript, HTML, MYSQL and LINUX.
 
@@ -194,10 +194,10 @@ Project#12  (Jan 2007 – Dec 2007)
 	Images, Audis, videos can be uploaded and attached with the product description. 
 
 	Duties Performed:
-	Understand and code the specifications given by client.
-	Prepare unit test plan and test cases for the project involved on. 
-	Develop and test the requirements.
-	Tracked and Resolved the bugs raised on time.
-	Delivered quality code to client on time without any delays.
+		-Understand and code the specifications given by client.
+		-Prepare unit test plan and test cases for the project involved on. 
+		-Develop and test the requirements.
+		-Tracked and Resolved the bugs raised on time.
+		-Delivered quality code to client on time without any delays.
 
 	Environment: CAKEPHP, JavaScript, HTML, MYSQL and LINUX.
