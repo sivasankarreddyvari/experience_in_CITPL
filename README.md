@@ -13,7 +13,7 @@ Project#1 (Oct 2015 – Nov 2016)
 		Working on Hive Metastore backup, Partitioning and bucketing techniques in hive to improve the performance. Tuning Spark & Scala Jobs.
 		Worked with various HDFS file formats like Avro, ORC and various compression formats like Snappy
 		
-	Environment:Spark, HDFS, Hive, Sqoop, Python, AWS EMR, AWS S3, AWS and PARQUET data files.
+	Environment: Spark, HDFS, Hive, Sqoop, Python, AWS S3, AWS and PARQUET data files.
   
 Project#3 (Oct 2014 - Sept 2015)
 	
