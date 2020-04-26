@@ -1,50 +1,18 @@
 # experience_in_CITPL
-Project#1 (June 2016 – Nov 2016)
-
-	Role: Team Leader
-
-	Project Name: KARMA
-
-	Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
-
-	Key Focus:
-	Generate loyal volunteers dedicated to at least one charitable category
-	To increase the total volunteer hours per community and per charitable category
-	To provide charities with cutting edge technology to enhance their programs with no additional cost.
-	To provide detailed analytics to both Charities and CSR programs
-	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
-
-	Duties Performed:
-	Involved in estimation and analysis of the requirements.
-	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-
-	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
-
-Project#2 (Oct 2015 – May 2016)
-
-	Role: Team Leader
-
-	Project Name: TutorBio
-
-	Description: Its designed to provide service providers a dedicated industry-specific platform to advertise their businesses. 
-	TeacherBio is designed for teachers and tutors of academic subjects,including music.
-	The goals are following:
-	The site has several pages of external content, including sales landing pages with appealing graphic design and layout
-	The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the 	website
-	Advertisers can opt in to background screening
-	Advertisers will have the ability to log in to their account to manage their payment options and basic account settings, and update their profile, etc.
-	Users searching for services from the Advertisers (“Users”) will be able to search for Advertisers with our search bar. And searches in Google will return 	auto-generated results pages based on subject/location (just like Yelp)
-	Admin can follow basic management of accounts
-	Title tag and meta keyword
-
-	Duties Performed:
-	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform code reviews for the team.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
-
-	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
+Project#1 (Oct 2015 – Nov 2016)
+	Role: Lead Developer
+	
+	Duties Peformed:
+		Involved in importing data into HDFS and Hive using Sqoop and involved in creating Hive tables, loading with data and writing Hive queries.
+		Developed Hive queries and Sqooped data from RDBMS to Hadoop staging area.
+		Handled importing of data from various data sources, performed transformations using Hive, and loaded data into S3.
+		Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins, Transformations and other during ingestion process itself.
+		Developed dataflows and processes for the Data processing using SQL (SparkSQL & Dataframes)
+		Developing spark programs using python API's to compare the performance of spark with HIVE and SQL and generated reports monthly and daily basis.
+		Working on Hive Metastore backup, Partitioning and bucketing techniques in hive to improve the performance. Tuning Spark & Scala Jobs.
+		Worked with various HDFS file formats like Avro, ORC and various compression formats like Snappy
+		
+	Environment:Spark, HDFS, Hive, Sqoop, Python, AWS EMR, AWS S3, AWS and PARQUET data files.
   
 Project#3 (Oct 2014 - Sept 2015)
 	
@@ -60,7 +28,7 @@ Project#3 (Oct 2014 - Sept 2015)
 		Responsible to manage data coming from different sources.
 		Importing and exporting data into HDFS and Hive using Sqoop.
 		Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
-	Environment:- Hadoop, Linux, HDFS, Hive, Sqoop.
+	Environment:- Hadoop, Linux, HDFS, Hive, Sqoop, GIT
 
 Project#4 (Jul 2012 - Sept 2014)
 
@@ -155,17 +123,22 @@ Project#8 (Mar 2010 – Jun 2010)
 
 	Role: Lead Developer
 
-	Project Name: Puremixtapes
+	Project Name: KARMA
 
-	Description: Puremixtapes is a website to maintain the images and audio files (mixtapes). 
-	The main advantage of puremixtapes is, we are storing the static images, uploading dynamic images and uploading audio files as well (mixtapes) into the cloud servers and the same information can be fetched from the cloud server. This helps to increases the performance of the site. This website provides user with sort options to fetch the recent mixtapes, Most popular – Daily /weekly /Monthly /Top rated popular mixtapes.
+	Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
+
+	Key Focus:
+	Generate loyal volunteers dedicated to at least one charitable category
+	To increase the total volunteer hours per community and per charitable category
+	To provide charities with cutting edge technology to enhance their programs with no additional cost.
+	To provide detailed analytics to both Charities and CSR programs
+	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
 
 	Duties Performed:
-	Played major role in developing and delivering code to client with minimal and low priority defects.
-	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-	Deliver project to client on time without any delinquencies.
+	Involved in estimation and analysis of the requirements.
+	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
 
-	Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
+	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
 
 Project#9 (Nov 2009 – Feb 2010)
 
