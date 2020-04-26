@@ -2,23 +2,16 @@
 Project#1 (Oct 2015 – Nov 2016)
 	
 	Role: Lead Developer
-	<ul>
-	test
-	<li>
-	test1 
-	</li>
-	<li>test2</li>
-	</ul>
 	
 	Duties Peformed:
-		Involved in importing data into HDFS and Hive using Sqoop and involved in creating Hive tables, loading with data and writing Hive queries.
-		Developed Hive queries and Sqooped data from RDBMS to Hadoop staging area.
-		Handled importing of data from various data sources, performed transformations using Hive, and loaded data into S3.
-		Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins, Transformations and other during ingestion process itself.
-		Developed dataflows and processes for the Data processing using SQL (SparkSQL & Dataframes)
-		Developing spark programs using python API's to compare the performance of spark with HIVE and SQL and generated reports monthly and daily basis.
-		Working on Hive Metastore backup, Partitioning and bucketing techniques in hive to improve the performance. Tuning Spark & Scala Jobs.
-		Worked with various HDFS file formats like Avro, ORC and various compression formats like Snappy
+		-Involved in importing data into HDFS and Hive using Sqoop and involved in creating Hive tables, loading with data and writing Hive queries.
+		-Developed Hive queries and Sqooped data from RDBMS to Hadoop staging area.
+		-Handled importing of data from various data sources, performed transformations using Hive, and loaded data into S3.
+		-Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins, Transformations and other during ingestion process itself.
+		-Developed dataflows and processes for the Data processing using SQL (SparkSQL & Dataframes)
+		-Developing spark programs using python API's to compare the performance of spark with HIVE and SQL and generated reports monthly and daily basis.
+		-Working on Hive Metastore backup, Partitioning and bucketing techniques in hive to improve the performance. Tuning Spark & Scala Jobs.
+		-Worked with various HDFS file formats like Avro, ORC and various compression formats like Snappy
 		
 	Environment: Spark, HDFS, Hive, Sqoop, Python, AWS S3, AWS and PARQUET data files.
   
