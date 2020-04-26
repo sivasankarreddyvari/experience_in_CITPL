@@ -2,6 +2,13 @@
 Project#1 (Oct 2015 – Nov 2016)
 	
 	Role: Lead Developer
+	<ul>
+	test
+	<li>
+	test1 
+	</li>
+	<li>test2</li>
+	</ul>
 	
 	Duties Peformed:
 		Involved in importing data into HDFS and Hive using Sqoop and involved in creating Hive tables, loading with data and writing Hive queries.
