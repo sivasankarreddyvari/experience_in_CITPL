@@ -1,19 +1,52 @@
 # experience_in_CITPL
-Project#1 (Oct 2015 – Nov 2016)
-	
-	Role: Lead Developer
-	
-	Duties Peformed:
-		-Involved in importing data into HDFS and Hive using Sqoop and involved in creating Hive tables, loading with data and writing Hive queries.
-		-Developed Hive queries and Sqooped data from RDBMS to Hadoop staging area.
-		-Handled importing of data from various data sources, performed transformations using Hive, and loaded data into S3.
-		-Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark, Effective & efficient Joins, Transformations and other during ingestion process itself.
-		-Developed dataflows and processes for the Data processing using SQL (SparkSQL & Dataframes)
-		-Developing spark programs using python API's to compare the performance of spark with HIVE and SQL and generated reports monthly and daily basis.
-		-Working on Hive Metastore backup, Partitioning and bucketing techniques in hive to improve the performance. Tuning Spark & Scala Jobs.
-		-Worked with various HDFS file formats like Avro, ORC and various compression formats like Snappy
-		
-	Environment: Spark, HDFS, Hive, Sqoop, Python, AWS S3, AWS and PARQUET data files.
+
+Project#1 (June 2016 – Nov 2016)
+
+	Role: Team Leader
+
+	Project Name: KARMA
+
+	Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
+
+	Key Focus:
+	Generate loyal volunteers dedicated to at least one charitable category
+	To increase the total volunteer hours per community and per charitable category
+	To provide charities with cutting edge technology to enhance their programs with no additional cost.
+	To provide detailed analytics to both Charities and CSR programs
+	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
+
+	Duties Performed:
+		-Involved in estimation and analysis of the requirements.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+
+	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
+
+Project#2 (Oct 2015 – May 2016)
+
+	Role: Team Leader
+
+	Project Name: TutorBio
+
+	Description: Its designed to provide service providers a dedicated industry-specific platform to advertise their businesses. 
+	TeacherBio is designed for teachers and tutors of academic subjects,including music.
+	The goals are following:
+	The site has several pages of external content, including sales landing pages with appealing graphic design and layout
+	The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the 	website
+	Advertisers can opt in to background screening
+	Advertisers will have the ability to log in to their account to manage their payment options and basic account settings, and update their profile, etc.
+	Users searching for services from the Advertisers (“Users”) will be able to search for Advertisers with our search bar. And searches in Google will return 	auto-generated results pages based on subject/location (just like Yelp)
+	Admin can follow basic management of accounts
+	Title tag and meta keyword
+
+	Duties Performed:
+		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+		-Played major role in developing and delivering code to client with minimal and low priority defects.
+		-Perform code reviews for the team.
+		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+		-Deliver project to client on time without any delinquencies.
+
+	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
   
 Project#3 (Oct 2014 - Sept 2015)
 	
@@ -21,7 +54,7 @@ Project#3 (Oct 2014 - Sept 2015)
 
 	Project Name: Mina
 	Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
-	Duties performed:
+	Duties Performed:
 		-Understanding the business functionality & Analysis of business requirements.
 		-Loading files to HDFS and writing hive queries to process required data.
 		-Loading data to Hive tables and writing queries to process.
