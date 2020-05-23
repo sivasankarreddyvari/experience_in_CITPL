@@ -1,70 +1,25 @@
 # experience_in_CITPL
 
-Project#1 (June 2016 – Nov 2016)
-
-	Role: Team Leader
-
-	Project Name: KARMA
-
-	Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
-
-	Key Focus:
-	Generate loyal volunteers dedicated to at least one charitable category
-	To increase the total volunteer hours per community and per charitable category
-	To provide charities with cutting edge technology to enhance their programs with no additional cost.
-	To provide detailed analytics to both Charities and CSR programs
-	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
-
-	Duties Performed:
-		-Involved in estimation and analysis of the requirements.
-		-Played major role in developing and delivering code to client with minimal and low priority defects.
-		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-
-	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
-
-Project#2 (Oct 2015 – May 2016)
-
-	Role: Team Leader
-
-	Project Name: TutorBio
-
-	Description: Its designed to provide service providers a dedicated industry-specific platform to advertise their businesses. 
-	TeacherBio is designed for teachers and tutors of academic subjects,including music.
-	The goals are following:
-	The site has several pages of external content, including sales landing pages with appealing graphic design and layout
-	The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the 	website
-	Advertisers can opt in to background screening
-	Advertisers will have the ability to log in to their account to manage their payment options and basic account settings, and update their profile, etc.
-	Users searching for services from the Advertisers (“Users”) will be able to search for Advertisers with our search bar. And searches in Google will return 	auto-generated results pages based on subject/location (just like Yelp)
-	Admin can follow basic management of accounts
-	Title tag and meta keyword
-
-	Duties Performed:
-		-Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-		-Played major role in developing and delivering code to client with minimal and low priority defects.
-		-Perform code reviews for the team.
-		-Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-		-Deliver project to client on time without any delinquencies.
-
-	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
-  
-Project#3 (Oct 2014 - Sept 2015)
+Project#1 (Nov 2013 - Nov 2016)
 	
-	Role: Team Lead
+	Role: Lead Hadoop Developer
 
-	Project Name: Mina
-	Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
+	Project Name: Data Migration
+	
+	Description: Spencers uses Elastic Sales Records (ESR) to monitor the products. They are using COBOL on DB2 to process the data which need to spend more cost to do it. our Data migration system creates the same view as COBOL all in big data world. It reduces the 50% of cose for company.
+	
 	Duties Performed:
-		-Understanding the business functionality & Analysis of business requirements.
-		-Loading files to HDFS and writing hive queries to process required data.
-		-Loading data to Hive tables and writing queries to process.
-		-Involved in loading data from LINUX file system to HDFS.
-		-Responsible to manage data coming from different sources.
-		-Importing and exporting data into HDFS and Hive using Sqoop.
-		-Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
-	Environment:- Hadoop, Linux, HDFS, Hive, Sqoop, GIT
+		-Loading data from DB2 to HDFS using sqoop
+		-Created Hbase tables on top of HDFS and loaded data, because Hbase will maintain all the versions and Hbase queries much faster than hive.
+		-Created HIVE tables on top of HBase, used phoenix to create sql views and read those tables in HIVE.
+		-From HIVE tables, created HIVE ORC tables into Datalake ( Datalake is ingestion pipeline)
+		-From HIVE ORC tables, consumed data to spark from Datalake pipeline. then injected data into ElasticSearch
+		-Created frontend using ElasticSearch REST API's from ElasticSearch.
+		-Using oozie all monthly reports are automated.
+		
+	Environment:- Spark, Hadoop, HDFS, Hive, HBase, ElasticSearch, Scala, Sqoop, GIT
 
-Project#4 (Jul 2012 - Sept 2014)
+Project#2 (Jul 2012 - Oct 2013) (Jul 2012 - Sept 2014) 
 
 	Role: Team Leader
 
@@ -91,7 +46,7 @@ Project#4 (Jul 2012 - Sept 2014)
 
 	Environment: Zend Framework, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
-Project#5 (Apr 2012 - Jun 2012) 
+Project#3 (Apr 2012 - Jun 2012) 
 
 	Role: Team Leader
 
@@ -110,7 +65,7 @@ Project#5 (Apr 2012 - Jun 2012)
 	Environment: Wordpress, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 
-Project#6 (Client Location: Mar 2011 - Mar 2012)
+Project#4 (Client Location: Mar 2011 - Mar 2012)
 
 	Role: Lead Developer
 
@@ -133,7 +88,7 @@ Project#6 (Client Location: Mar 2011 - Mar 2012)
 
 	Environment: CakePhp, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
-Project#7 (Jul 2010 - Feb 2011)
+Project#5 (Jul 2010 - Feb 2011)
 
 	Role: Lead Developer
 
@@ -153,7 +108,7 @@ Project#7 (Jul 2010 - Feb 2011)
 
 	Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX
   
-Project#8 (Mar 2010 – Jun 2010)
+Project#6 (Mar 2010 – Jun 2010)
 
 	Role: Lead Developer
 
@@ -174,7 +129,7 @@ Project#8 (Mar 2010 – Jun 2010)
 
 	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
 
-Project#9 (Nov 2009 – Feb 2010)
+Project#7 (Nov 2009 – Feb 2010)
 
 	Role: Lead Developer
 
@@ -196,7 +151,7 @@ Project#9 (Nov 2009 – Feb 2010)
 
 	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
-Project#10  (Jan 2008 – Oct 2009)
+Project#8  (Jan 2008 – Oct 2009)
 
 	Role: Software Engineer
 
@@ -216,7 +171,7 @@ Project#10  (Jan 2008 – Oct 2009)
 	Environment: Php, JavaScript, HTML, MYSQL and LINUX.
 
 
-Project#12  (Jan 2007 – Dec 2007)
+Project#9  (Jan 2007 – Dec 2007)
 
 	Role: Software Engineer
 
