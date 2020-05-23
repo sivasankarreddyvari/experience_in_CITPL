@@ -19,7 +19,7 @@ Project#1 (Nov 2013 - Nov 2016)
 		
 	Environment:- Spark, Hadoop, HDFS, Hive, HBase, ElasticSearch, Scala, Sqoop, GIT
 
-Project#2 (Jul 2012 - Oct 2013) (Jul 2012 - Sept 2014) 
+Project#2 (Jul 2012 - Oct 2013)
 
 	Role: Team Leader
 
